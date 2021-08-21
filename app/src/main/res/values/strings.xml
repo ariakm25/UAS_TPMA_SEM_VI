@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IS3_10518122</string>
+    <string name="title_todos">My Todo</string>
+    <string name="title_add_todo">Add Todo</string>
+    <string name="title_completed_todos">Done</string>
+</resources>
